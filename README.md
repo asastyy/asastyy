@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Anastasia 👋
 
-<!--
-**asastyy/asastyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**HSE MSc Student | Machine Learning**
 
-Here are some ideas to get you started:
+## Portfolio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Machine Learning & Data Science Portfolio](https://github.com/asastyy/ml-data-science-portfolio)
+
+Current projects:
+
+- [Ball Object Detection with RetinaNet and DETR](https://github.com/asastyy/ml-data-science-portfolio/tree/main/computer-vision/ball-object-detection)  
+  Object detection project for ball localization using RetinaNet-style detector and DETR fine-tuning.
+
+- [Seq2Seq Machine Translation with Attention](https://github.com/asastyy/ml-data-science-portfolio/tree/main/natural-language-processing/seq2seq-machine-translation)  
+  Russian-to-English neural machine translation using GRU Encoder-Decoder, attention, beam search and BLEU evaluation.
+
+- [SSVEP BCI Classification](https://github.com/asastyy/ml-data-science-portfolio/tree/main/digital-signal-processing/ssvep-bci-classification)  
+  EEG-based SSVEP target classification using FFT, CCA, FBCCA and ICA artifact removal.
+
+## Tech Stack
+
+`Python` · `SQL` · `PyTorch` · `scikit-learn` · `NumPy` · `pandas` · `SciPy` · `Matplotlib` · `Jupyter Notebook` · `Linux` 
+
+## Interests
+
+Machine Learning · Data Science · NLP · LLM · AI Agents · Computer Vision
