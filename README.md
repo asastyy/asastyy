@@ -7,6 +7,12 @@
 [Machine Learning & Data Science Portfolio](https://github.com/asastyy/ml-data-science-portfolio)
 
 Current projects:
+- [Russian Jokes LLM](https://github.com/asastyy/russian_jokes_llm)  
+  Byte-level BPE tokenizer and decoder-only Transformer for Russian joke generation with Hugging Face model export.  
+  Model: [asastyy/russian-jokes-llm](https://huggingface.co/asastyy/russian-jokes-llm)
+
+- [SberQuAD RAG Search](https://github.com/asastyy/sberquad_rag_search)  
+  RAG pipeline for Russian QA using Elasticsearch, dense retrieval, hybrid search and local LLM generation.
 
 - [Ball Object Detection with RetinaNet and DETR](https://github.com/asastyy/ml-data-science-portfolio/tree/main/computer-vision/ball-object-detection)  
   Object detection project for ball localization using RetinaNet-style detector and DETR fine-tuning.
@@ -23,4 +29,4 @@ Current projects:
 
 ## Interests
 
-Machine Learning · Data Science · NLP · LLM · AI Agents · Computer Vision
+Machine Learning · Data Science · NLP · LLM · RAG · Recommender Systems · Foundation Models · Embeddings · Information Retrieval · Computer Vision
