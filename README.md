@@ -7,6 +7,9 @@
 [Machine Learning & Data Science Portfolio](https://github.com/asastyy/ml-data-science-portfolio)
 
 Current projects:
+- [VK Ads Reach & Frequency Forecasting](https://github.com/asastyy/campaign_performance_forecasting_VkAds)  
+  AdTech forecasting project for predicting future campaign reach and frequency in an auction-based ad system. Built with leak-free temporal validation, auction/session replay and residual calibration.
+
 - [Russian Jokes LLM](https://github.com/asastyy/russian_jokes_llm)  
   Byte-level BPE tokenizer and decoder-only Transformer for Russian joke generation with Hugging Face model export.  
   Model: [asastyy/russian-jokes-llm](https://huggingface.co/asastyy/russian-jokes-llm)
@@ -29,4 +32,4 @@ Current projects:
 
 ## Interests
 
-Machine Learning · Data Science · NLP · LLM · RAG · Recommender Systems · Foundation Models · Embeddings · Information Retrieval · Computer Vision
+Machine Learning · Data Science · NLP · LLM · RAG · Recommender Systems · Foundation Models · AdTech  · Computer Vision
